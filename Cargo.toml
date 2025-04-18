@@ -10,7 +10,7 @@ rust-version = "1.86"
 documentation = "https://docs.rs/rsycv"
 repository = "https://github.com/rsyai-oos/rsycv.git"
 keywords = ["cv"]
-categories = ["image"]
+categories = []
 
 [features]
 
