@@ -1,0 +1,20 @@
+[package]
+name = "rsycv"
+version = "0.0.1"
+description = "Computer Vision Library implemented in Rust"
+authors = ["RsyAI Developers"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+edition = "2024"
+rust-version = "1.86"
+documentation = "https://docs.rs/rsycv"
+repository = "https://github.com/rsyai-oos/rsycv.git"
+keywords = ["cv"]
+categories = ["Computer Vision"]
+
+[features]
+
+[dependencies]
+hex = "0.4.3"
+
+[dev-dependencies]
